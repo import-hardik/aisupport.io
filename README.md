@@ -7,13 +7,12 @@ speech_recognition as sr
 
 # Brief
 This is a concept project made by me for a College event(Dated:15 October 2023) Innovation in which there was a topic ai in social so i came out with this concept that the all the load of call centers can be reduce to this one ai to whome we can feed data and it can answer basic question like a human himself it can be altered in variety of ways and for each department only a few queries 
-
-#install libraries using
+# install libraries using
 pip install openai
 pip install pyttsx3
 pip install SpeechRecognition
 pip install pyaudio
 
-#How it works
+# How it works
 it first take voice input using speechRecgnition
 converts your words into 
